@@ -1,0 +1,534 @@
+{
+	"title": "Goethe - Life & Journeys",
+	"biography": "Biography",
+	"history": "History",
+	"journeys": "Journeys",
+	"writings": "Writings",
+	"items": [{
+			"year": "1749",
+			"biography": "Birth in Frankfurt",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1750",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1751",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1752",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1753",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1754",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1755",
+			"biography": "",
+			"history": "the Great Lisbon Earthquake",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1756",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1757",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1758",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1759",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1760",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1761",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1762",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1763",
+			"biography": "",
+			"history": "Seven Years War",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1764",
+			"biography": "",
+			"history": "coronation of Joseph II to Roman-German Emperor",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1765",
+			"biography": "law studies in Leipzig and Strasbourg",
+			"history": "",
+			"journeys": "Frankfurt to Leipzig ",
+			"writings": "",
+            "waypoints": [50.11361, 8.67972, 50.55278, 9.6775, 50.97472, 10.32444, 50.948360, 10.697270, 50.984768, 11.029880, 51.100220, 11.588110, 51.1525648, 11.8099186, 51.199829, 11.966820, 51.33333, 12.38333]
+		}, {
+			"year": "1766",
+			"biography": "law studies in Leipzig and Strasbourg",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1767",
+			"biography": "law studies in Leipzig and Strasbourg",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1768",
+			"biography": "law studies in Leipzig and Strasbourg",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1769",
+			"biography": "law studies in Leipzig and Strasbourg",
+			"history": "James Cook´s voyages of exploration to the South Pacific\nVerbesserung der Dampfmaschine durch James Watt",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1770",
+			"biography": "law studies in Leipzig and Strasbourg\nmakes the acquaintance of Johann Gotthard Harder in Strasbourg\nmeets Friederike Brion",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "Frankfurt to Strasbourg",
+			"writings": "",
+			"waypoints": [50.11361, 8.67972, 49.8454648, 7.8044018, 49.96694, 7.895, 50.001231, 8.276251, 49.6302618, 8.3620898, 49.48361, 8.46306, 49.3165553, 8.433615, 48.7994238, 7.9865841, 48.57333, 7.75222, 48.08111, 7.355, 47.86556, 7.3525, 48.08111, 7.355, 48.57333, 7.75222, 48.7419909, 7.3625953, 49.234362, 6.996379, 49.3722236, 7.1870921, 48.7994238, 7.9865841]
+		}, {
+			"year": "1771",
+			"biography": "doctorate as a licensed attorney\naccreditation as lqyer in Frankfurt",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "Frankfurt to Strasbourg",
+			"writings": "",
+            "waypoints": [50.11361, 8.67972, 49.8454648, 7.8044018, 49.96694, 7.895, 50.001231, 8.276251, 49.6302618, 8.3620898, 49.48361, 8.46306, 49.3165553, 8.433615, 48.7994238, 7.9865841, 48.57333, 7.75222, 48.08111, 7.355, 47.86556, 7.3525, 48.08111, 7.355, 48.57333, 7.75222, 48.7419909, 7.3625953, 49.234362, 6.996379, 49.3722236, 7.1870921, 48.7994238, 7.9865841]
+		}, {
+			"year": "1772",
+			"biography": "law practicum at the Reichskammergericht (imoperial Chamber Court) in Wetzlar\nmeets Charlotte Buff",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "",
+			"writings": "On German Architecture"
+		}, {
+			"year": "1773",
+			"biography": "",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "",
+			"writings": "Götz von Berlichingen"
+		}, {
+			"year": "1774",
+			"biography": "visit by Karl Ludwig von Knebel and the Weimar Princes, Carl August and Constantin in Frankfurt",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "Journey to Rhine",
+			"writings": "The Sorrows of Young Werthers",
+            "waypoints": [50.11361, 8.67972, 50.0820384, 8.2416556, 50.3533278, 7.5943951, 50.735851, 7.10066, 50.938361, 6.959974, 51.2254018, 6.7763137]
+		}, {
+			"year": "1775",
+			"biography": "brief engagement to Anna Elisabeth Schönemann\narrival in Weimar\nbeginning of friendship with Charlotte von Stein and Christoph Martin Wieland",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "1st journey to Switzerland",
+			"writings": "",
+            "waypoints": [50.11361, 8.67972, 49.872775, 8.651177, 49.4892913, 8.4673098, 49.4093582, 8.694724, 49.0068705, 8.4034195, 48.57333, 7.75222, 48.1206565, 7.850993, 47.9960901, 7.8494005, 47.6960491, 8.634513, 47.659216, 9.1750718, 47.4723314, 8.7045499, 47.3744489, 8.5410422, 47.2091079, 8.7017051, 47.1286095, 8.7500299, 47.0571976, 8.7222073, 46.9694413, 8.5923548, 46.5589929, 8.5623879, 47.3744489, 8.5410422, 47.5581077, 7.5878261, 48.57333, 7.75222, 49.0068705, 8.4034195, 49.4093582, 8.694724, 49.872775, 8.651177, 50.11361, 8.67972]
+		}, {
+			"year": "1776",
+			"biography": "moves into the garden house\nenter Saxony-Weimar civil service\nbegins research in the natural science\nparticipation in Amateur Theater",
+			"history": "James Cook´s voyages of exploration to the South Pacific\ndeclaration of Independence of the United States of America",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1777",
+			"biography": "",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "1st journey to Harzmountains",
+			"writings": "",
+            "waypoints": [50.9810486, 11.3296637, 51.3666041, 10.8668419, 51.5051574, 10.7925317, 51.6067378, 10.8091632, 51.6589571, 10.2803803, 51.8344172, 10.7862526, 51.9059936, 10.4266284, 51.8923981, 10.421423, 51.8070405, 10.3364483, 51.7644243, 10.6593718, 51.5123672, 10.2610699, 50.9810486, 11.3296637]
+		}, {
+			"year": "1778",
+			"biography": "",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "Journey to Berlin",
+			"writings": "",
+            "waypoints": [50.9810486, 11.3296637, 51.1525648, 11.8099186, 51.1999793, 11.9667857, 51.3406321, 12.3747329, 51.8414537, 12.4199023, 52.4009309, 13.0591397, 52.5170365, 13.3888599, 52.5873891, 13.2790461, 52.4009309, 13.0591397, 51.8414537, 12.4199023, 51.8346802, 12.2468703, 51.3406321, 12.3747329, 50.9810486, 11.3296637]
+		}, {
+			"year": "1779",
+			"biography": "",
+			"history": "James Cook´s voyages of exploration to the South Pacific",
+			"journeys": "2nd journey to Switzerland",
+			"writings": "",
+            "waypoints": [50.12527734357597, 8.684605134471617, 49.493712170382565, 8.474603187646801, 49.31984122060504, 8.442008819438115, 48.99800899368275, 8.400782694094744, 48.79525838556006, 7.990425490382969, 48.5815466562075, 7.754867945721946, 48.12271834722112, 7.8682057757010435, 47.99733553730447, 7.8451655647187275, 47.56154198602587, 7.591369641555798, 47.13372902708533, 7.241140540280367, 46.948959974389524, 7.447735325647591, 46.523970566166824, 6.636357151512784, 46.21048883821747, 6.147006380636381, 45.923488677774394, 6.889249596500735, 46.23185867272878, 7.363203475394012, 46.396195245082716, 7.631234780452985, 46.59554191318018, 8.509912174796202, 46.561244258159505, 8.561685321815405, 47.04888564305612, 8.30496273276579, 47.37876458522392, 8.531215458279547, 47.499484477425575, 8.730113490125145, 47.66812444391131, 9.206979858484654, 47.70414485141348, 8.6293639096102, 47.98237323874487, 8.821706296017151, 48.78591083885006, 9.172402457051339, 48.99800899368275, 8.400782694094744, 49.416365823644036, 8.668501795104797, 49.493712170382565, 8.474603187646801, 49.88131331885374, 8.637649061454006, 50.12527734357597, 8.684605134471617, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1780",
+			"biography": "",
+			"history": "",
+			"journeys": "2nd journey to Switzerland",
+			"writings": "Wanderer's Nightsong",
+            "waypoints": [50.12527734357597, 8.684605134471617, 49.493712170382565, 8.474603187646801, 49.31984122060504, 8.442008819438115, 48.99800899368275, 8.400782694094744, 48.79525838556006, 7.990425490382969, 48.5815466562075, 7.754867945721946, 48.12271834722112, 7.8682057757010435, 47.99733553730447, 7.8451655647187275, 47.56154198602587, 7.591369641555798, 47.13372902708533, 7.241140540280367, 46.948959974389524, 7.447735325647591, 46.523970566166824, 6.636357151512784, 46.21048883821747, 6.147006380636381, 45.923488677774394, 6.889249596500735, 46.23185867272878, 7.363203475394012, 46.396195245082716, 7.631234780452985, 46.59554191318018, 8.509912174796202, 46.561244258159505, 8.561685321815405, 47.04888564305612, 8.30496273276579, 47.37876458522392, 8.531215458279547, 47.499484477425575, 8.730113490125145, 47.66812444391131, 9.206979858484654, 47.70414485141348, 8.6293639096102, 47.98237323874487, 8.821706296017151, 48.78591083885006, 9.172402457051339, 48.99800899368275, 8.400782694094744, 49.416365823644036, 8.668501795104797, 49.493712170382565, 8.474603187646801, 49.88131331885374, 8.637649061454006, 50.12527734357597, 8.684605134471617, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1781",
+			"biography": "",
+			"history": "publication of Immanue Kant´s Critique of Pure Reason",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1782",
+			"biography": "raised to nobility\nmoves into the house on Frauenplan",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1783",
+			"biography": "Goethe takes in Fritz von Stein as his foster son ",
+			"history": "first ballon flight launched by the Montgolfier brothers",
+			"journeys": "2nd journey to Harzmountains",
+			"writings": "",
+            "waypoints": [50.98641579200578, 11.324629232002135, 51.74893729294381, 11.03994150212999, 51.79232775686726, 10.959220112017439, 51.89732274573654, 11.051925511613023, 51.79931544158816, 10.614789251679317, 51.80687636369406, 10.34010648912663, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1784",
+			"biography": "",
+			"history": "",
+			"journeys": "3rd journey to Harzmountains",
+			"writings": "",
+            "waypoints": [52.275890870427176, 10.536118968481906, 51.90726726475012, 10.427610552888169, 51.763908275230186, 10.665016470891002, 51.75513869258746, 10.802844066763328, 51.74893729294381, 11.03994150212999, 51.79232775686726, 10.959220112017439, 51.83996051855532, 11.749365613724601, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1785",
+			"biography": "",
+			"history": "",
+			"journeys": "1st journey to Bohemia",
+			"writings": "",
+            "waypoints": [50.98641579200578, 11.324629232002135, 50.932383513576674, 11.583907880406516, 50.80651135912891, 11.584893944886208, 50.73693294017672, 11.747569604415755, 50.57882845505146, 11.80841394362731, 50.31555369361287, 11.913265437579534, 50.039184520318436, 12.000689829730439, 50.233128435211256, 12.863282999323737, 50.36144582002682, 12.934210470196502, 50.4343939217414, 12.709655182288492, 50.59546639417296, 12.644117054755334, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1786",
+			"biography": "",
+			"history": "",
+			"journeys": "1st journey to Italy",
+			"writings": "",
+            "waypoints": [50.233128435211256, 12.863282999323737, 50.08320823364335, 12.369159668504297, 49.0201451056708, 12.097975284041087, 48.161899060354166, 11.534944515729455, 47.441629728641395, 11.262285558775694, 47.26762334626791, 11.407157231279248, 46.94016941068829, 11.448005490430019, 46.49774007638433, 11.35368042101082, 46.06973853821257, 11.123960175302473, 45.76549408041454, 10.80928173921988, 45.43731170894663, 10.989439736978394, 45.54803664953762, 11.550226099156367, 45.40593607028355, 11.88368576284349, 45.44564571169168, 12.339241633055252, 44.83592954829358, 11.614614492394157, 44.72881508781915, 11.289659318724098, 44.49560419337076, 11.337171982664316, 43.76995658846292, 11.249200891428671, 43.112481240132624, 12.38702026838444, 43.06909765899781, 12.618186769639426, 42.560241540610164, 12.655203866723, 41.887437487677204, 12.494478873041004]
+		}, {
+			"year": "1787",
+			"biography": "",
+			"history": "",
+			"journeys": "1st journey to Italy",
+			"writings": "Iphgenia in Tauris (version in verse form)\neight-volume edition of Writings",
+            "waypoints": [41.887437487677204, 12.494478873041004, 40.85663856968459, 14.273212259821129, 40.74957542255174, 14.500468359378425, 40.80823303482361, 14.34345684693454, 40.681073980198235, 14.767068089141668, 40.42567687377784, 15.003495335243924, 40.85663856968459, 14.273212259821129, 38.11777497402548, 13.36895423448953, 37.946629661758124, 12.83625631028726, 37.31405520686488, 13.578588972690955, 37.49119584692207, 14.060966631269533, 37.5036423922297, 15.097360564220581, 37.8524535753346, 15.292921639708506, 38.184511233430975, 15.552927151578055, 40.85663856968459, 14.273212259821129, 41.887437487677204, 12.494478873041004]
+		}, {
+			"year": "1788",
+			"biography": "return to Weimar\nmakes the acquaintance of Christine Vulpius",
+			"history": "",
+			"journeys": "1st journey to Italy",
+			"writings": "eight-volume edition of Writings\nEgmont",
+            "waypoints": [41.887437487677204, 12.494478873041004, 43.76995658846292, 11.249200891428671, 45.45927698202848, 9.18321883216622, 45.81036397357737, 9.083934755402822, 46.322217834765134, 9.403902206492894, 46.55035804052143, 9.323331562468944, 46.853863003224774, 9.53178840967748, 47.66812444391131, 9.206979858484654, 49.45788373114897, 11.078786158109374, 49.89468664298181, 10.891199749366168, 50.26376638526762, 10.98649686833528, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1789",
+			"biography": "birth of son August\nbeginnig of friendship with Wilhelm von Humboldt",
+			"history": "outbreak of the French Revolution\ndeclaration of human and civil right in france",
+			"journeys": "",
+			"writings": "eight-volume edition of Writings"
+		}, {
+			"year": "1790",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "publication of Immanuel Kant´s Critique of Judgement",
+			"journeys": "journey to Silesia\n2nd journey to Italy",
+			"writings": "eight-volume edition of Writings\nTorquato Tasso\nThe Metamorphosis of Plants",
+            "waypoints": [50.932383513576674, 11.583907880406516, 49.45788373114897, 11.078786158109374, 48.368806969572155, 10.90812581904074, 46.94016941068829, 11.448005490430019, 45.43731170894663, 10.989439736978394, 45.44564571169168, 12.339241633055252, 45.40593607028355, 11.88368576284349, 45.157529027609336, 10.792959563125478, 46.94016941068829, 11.448005490430019, 48.368806969572155, 10.90812581904074, 49.45788373114897, 11.078786158109374, 50.98641579200578, 11.324629232002135, 50.98776232306723, 12.440203647538741, 51.05319709782414, 13.746469789922015, 51.048840499508884, 14.08663234941524, 51.11208899169862, 17.04402559526037, 50.437555576544156, 18.840652183446366, 49.98488795885518, 20.055377874723895, 50.062586752285746, 19.94335641499244, 50.823986868606866, 19.120705217438086, 51.11208899169862, 17.04402559526037, 50.4408294285095, 16.655188223414058, 51.11208899169862, 17.04402559526037, 50.736612774625804, 15.738915635102854, 50.84439168118726, 16.48764763836223, 50.86890272902488, 15.684144805634599, 51.150307492715186, 14.972143670202216, 51.12782367523401, 14.179751487823546, 51.05319709782414, 13.746469789922015, 50.91817456955149, 13.342883182170057, 50.98776232306723, 12.440203647538741, 50.98641579200578, 11.324629232002135]
+		}, {
+			"year": "1791",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "the Louvre is opened as a museum\nworld première of Mozart´s The Magic Flute in Vienna",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1792",
+			"biography": "direction of the Weimar Court Theatre\naccompanies the duke in the campaign against France",
+			"history": "",
+			"journeys": "Campaign in France",
+			"writings": "",
+            "waypoints": [50.979118, 11.324480, 50.9747134, 10.3193565, 50.5542328, 9.6770448, 50.1106444, 8.6820917, 49.7596208, 6.6441878, 49.8158683, 6.1296751, 49.1589278, 5.3867277, 49.0849683, 4.773982, 49.1589278, 6.1296751, 49.7596208, 6.6441878, 50.3533278, 7.5943951, 50.938361, 6.959974, 51.2254018, 6.7763137, 51.9625101, 7.6251879, 51.7189596, 8.7648698, 50.9747134, 10.3193565]
+		}, {
+			"year": "1793",
+			"biography": "direction of the Weimar Court Theatre\neye witness of the siege of Mainz",
+			"history": "",
+			"journeys": "",
+			"writings": "Reineke Fuchs\nSiege of Mainz"
+		}, {
+			"year": "1794",
+			"biography": "direction of the Weimar Court Theatre\nbeginning of the collaboration with Friedrich Schiller",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1795",
+			"biography": "direction of the Weimar Court Theatre\nWilhelm Meister´s Appremticeship",
+			"history": "",
+			"journeys": "",
+			"writings": "Roman Elegies"
+		}, {
+			"year": "1796",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "",
+			"journeys": "",
+			"writings": "Wilhelm Meister´s Appremticeship"
+		}, {
+			"year": "1797",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "",
+			"journeys": "3rd journey to Switzerland",
+			"writings": "",
+            "waypoints": [50.9810486, 11.3296637, 50.5542328, 9.6770448, 50.1106444, 8.6820917, 49.872775, 8.651177, 49.4093582, 8.694724, 49.142291, 9.218655, 48.8953937, 9.1895147, 48.7784485, 9.1800132, 48.5236164, 9.0535531, 47.9844315, 8.8186606, 47.72065734863281, 8.646162033081055, 47.3744489, 8.5410422, 47.2413349, 8.7348747, 47.2091079, 8.7017051, 46.8820732, 8.6413922, 46.5589929, 8.5623879, 46.8820732, 8.6413922, 47.0815257, 8.4494909, 47.72065734863281, 8.646162033081055, 47.9844315, 8.8186606, 48.5236164, 9.0535531, 48.7784485, 9.1800132, 48.9615975, 10.131975, 49.453872, 11.077298, 49.8916044, 10.8868478, 50.258112, 10.964463, 50.9281717, 11.5879359, 50.9810486, 11.3296637]
+		}, {
+			"year": "1798",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "invention of lithography",
+			"journeys": "",
+			"writings": "Propylaea"
+		}, {
+			"year": "1799",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "",
+			"journeys": "",
+			"writings": "Propylaea"
+		}, {
+			"year": "1800",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "",
+			"journeys": "",
+			"writings": "Propylaea"
+		}, {
+			"year": "1801",
+			"biography": "direction of the Weimar Court Theatre\nlife-threatening shingles disease ",
+			"history": "",
+			"journeys": "journey to Pyrmont",
+			"writings": "",
+            "waypoints": [50.9810486, 11.3296637, 50.9777974, 11.0287364, 50.9494849, 10.7014435, 50.9747134, 10.3193565, 51.0547592, 10.2451435, 51.3154546, 9.4924096, 52.0967048, 9.4156812, 51.5328328, 9.9351811, 51.3756186, 10.138224, 51.2094255, 10.4589044, 50.9777974, 11.0287364]
+		}, {
+			"year": "1802",
+			"biography": "direction of the Weimar Court Theatre\nCarl Friedrich Zelter´s first visit at Goethe´s home",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1803",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1804",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1805",
+			"biography": "direction of the Weimar Court Theatre\ndeath of Friedrich Schiller",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1806",
+			"biography": "direction of the Weimar Court Theatre\nmariage to Christiane Vulpius",
+			"history": "Napoleonic Wars\nend of the Holy Roman Empire of the German Nation\nFrench victory over the Prussian-Saxe troops in the battles of Jena and Auerstedt\nlooting of Weimar",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1807",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1808",
+			"biography": "direction of the Weimar Court Theatre\nmeeting with Napoleon in Erfurt",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": "Faust I"
+		}, {
+			"year": "1809",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": "Elective Affinities"
+		}, {
+			"year": "1810",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": "Theory of Colours"
+		}, {
+			"year": "1811",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": "Poetry and Truth I-IV"
+		}, {
+			"year": "1812",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": "Poetry and Truth I-IV"
+		}, {
+			"year": "1813",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "Napoleonic Wars",
+			"journeys": "",
+			"writings": "Poetry and Truth I-IV"
+		}, {
+			"year": "1814",
+			"biography": "direction of the Weimar Court Theatre\nmakes the acquaintance of Marianne von Willemer in Wiesbaden",
+			"history": "Napoleonic Wars\nreorganisation of European at the Vienna Congress\nbeginning of restoration",
+			"journeys": "journeys to Rhine-Main",
+			"writings": "",
+            "waypoints": [50.9810486, 11.3296637, 50.9747134, 10.3193565, 50.5542328, 9.6770448, 50.1335542, 8.9168179, 50.1106444, 8.6820917, 50.0820384, 8.2416556, 50.3030289, 7.9544958, 50.0012314, 8.2762513, 49.8454648, 7.8044018, 49.9667, 7.9, 50.0012314, 8.2762513, 50.735851, 7.10066, 50.938361, 6.959974, 50.735851, 7.10066, 50.0012314, 8.2762513, 50.3030289, 7.9544958, 49.4093582, 8.694724, 49.4892913, 8.4673098, 49.872775, 8.651177, 50.1335542, 8.9168179]
+		}, {
+			"year": "1815",
+			"biography": "direction of the Weimar Court Theatre\npromoted to Minister of State",
+			"history": "Napoleon's final defeat in Waterloo\nSaxony-Weimar-Eisenach reised to the status of a Grand Duty\nreorganisation of European at the Vienna Congress\nbeginning of restoration",
+			"journeys": "journeys to Rhine-Main",
+			"writings": ""
+		}, {
+			"year": "1816",
+			"biography": "direction of the Weimar Court Theatre\nChristianes`s death",
+			"history": "",
+			"journeys": "",
+			"writings": "Italian Journey"
+		}, {
+			"year": "1817",
+			"biography": "direction of the Weimar Court Theatre",
+			"history": "",
+			"journeys": "",
+			"writings": "Italian Journey\nbooklets about the Natural Sciences"
+		}, {
+			"year": "1818",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": "booklets about the Natural Sciences"
+		}, {
+			"year": "1819",
+			"biography": "",
+			"history": "restriction of the freedom of opinion and press by the Coarlbad Decress",
+			"journeys": "",
+			"writings": "booklets about the Natural Sciences"
+		}, {
+			"year": "1820",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": "booklets about the Natural Sciences"
+		}, {
+			"year": "1821",
+			"biography": "first encounter with Ulike von Levetzow in Marienbad",
+			"history": "",
+			"journeys": "",
+			"writings": "booklets about the Natural Sciences"
+		}, {
+			"year": "1822",
+			"biography": "",
+			"history": "",
+			"journeys": "",
+			"writings": "booklets about the Natural Sciences"
+		}, {
+			"year": "1823",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "",
+			"journeys": "Last of a total of 16 trips to Bohemia",
+			"writings": "booklets about the Natural Sciences",
+            "waypoints": [50.9810486, 11.3296637, 50.4285336, 11.7397093, 50.5590505, 11.8040013, 50.0793511, 12.3703526, 49.9739518, 12.703319, 50.2304694, 12.8710769, 50.0793511, 12.3703526, 50.9281717, 11.5879359, 50.9810486, 11.3296637]
+		}, {
+			"year": "1824",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "",
+			"journeys": "",
+			"writings": "booklets about the Natural Sciences"
+		}, {
+			"year": "1825",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "first railway built in England between Stockton and Darlington",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1826",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "",
+			"journeys": "",
+			"writings": ""
+		}, {
+			"year": "1827",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "",
+			"journeys": "",
+			"writings": "complete works in the final edition in 60 volumes"
+		}, {
+			"year": "1828",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "",
+			"journeys": "",
+			"writings": "complete works in the final edition in 60 volumes"
+		}, {
+			"year": "1829",
+			"biography": "Johann Peter Eckermann works for Goethe",
+			"history": "",
+			"journeys": "",
+			"writings": "complete works in the final edition in 60 volumes\nWilhelm Meister´s Journeyman Years"
+		}, {
+			"year": "1830",
+			"biography": "Johann Peter Eckermann works for Goethe\ndeath of son August in Rom",
+			"history": "July Revolution in France",
+			"journeys": "",
+			"writings": "complete works in the final edition in 60 volumes"
+		}, {
+			"year": "1831",
+			"biography": "Johann Peter Eckermann works for Goethe\nlast journey to Ilmenau",
+			"history": "",
+			"journeys": "",
+			"writings": "complete works in the final edition in 60 volumes"
+		}, {
+			"year": "1832",
+			"biography": "Goethe´s death\nburial at the Ducan Vault in Weimar",
+			"history": "",
+			"journeys": "",
+			"writings": "complete works in the final edition in 60 volumes\nFaust II (postthumously published)"
+		}
+	]
+}
